@@ -4,12 +4,15 @@
 
 This timed code quiz features multiple-choice questions about javascript. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. Students will begin the timed quiz. If answered incorrectly, time is deducted. When quiz is completed users can input their initials and score. 
 
+# User Story
+
+AS A coding boot camp student
+I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+SO THAT I can gauge my progress compared to my peers
 
 
 
 ## Table of Contents 
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -30,19 +33,26 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+List of collaborators: N/A
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+Third-party assets that require attribution: 
+https://github.com/mmeii/code-quiz
+https://github.com/dsmooke/timed-code-quiz
+https://github.com/JustinMarchi/Homework4-CodeQuiz.github.io
+https://github.com/hilbug/04-code-quiz
 
-If you followed tutorials, include links to those here as well.
+
+
+Tutorials:
+https://www.youtube.com/watch?v=49pYIMygIcU
+https://www.codingnepalweb.com/quiz-app-with-timer-javascript/
+https://stackoverflow.com/questions/58964755/subtract-time-from-timer-if-answer-is-wrong-creating-a-quiz-javascript
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+🏆 
 
 ## Badges
 
