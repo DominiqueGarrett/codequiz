@@ -42,17 +42,16 @@ THEN I can save my initials and score
 ## Usage
 
 Start Quiz Section
-![alt text](assets/images/startquiz)
+<img width="1440" alt="startquiz" src="https://user-images.githubusercontent.com/114618684/197865818-430f4cb3-a476-4074-818f-01b78218b801.png">
 
 Question Section 
-![alt text](assets/images/questionsection)
+<img width="1440" alt="questionsection" src="https://user-images.githubusercontent.com/114618684/197866090-83bcaa6e-b8eb-4b02-9c26-3e613bdca690.png">
 
 Submit Scores Section
-![alt text](assets/images/submitscore)
+<img width="1440" alt="submitscore" src="https://user-images.githubusercontent.com/114618684/197865988-3a5c8d2b-fb08-4629-ac82-566221ef3dd6.png">
 
 High Scores Section
-![alt text](assets/images/highscore)
-
+<img width="1440" alt="highscore" src="https://user-images.githubusercontent.com/114618684/197865916-bc672ea4-0f1e-4ca2-8ae1-4f5cb2600f7e.png">
 
 
 
@@ -74,6 +73,7 @@ Tutorials:
 https://www.youtube.com/watch?v=49pYIMygIcU
 https://www.codingnepalweb.com/quiz-app-with-timer-javascript/
 https://stackoverflow.com/questions/58964755/subtract-time-from-timer-if-answer-is-wrong-creating-a-quiz-javascript
+https://www.youtube.com/watch?v=NVibWKkon74
 
 
 Background image from: https://www.pinterest.com/pin/954763189722468438/
