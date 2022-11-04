@@ -1,5 +1,7 @@
 # codequiz
 
+Deployed Application: 
+https://dominiquegarrett.github.io/codequiz/
 ## Description
 
 This timed code quiz features multiple-choice questions about javascript. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. Students will begin the timed quiz. If answered incorrectly, time is deducted. When quiz is completed users can input their initials and score. 
